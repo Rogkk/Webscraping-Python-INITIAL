@@ -9,3 +9,8 @@
     4. O programa realiza uma consulta para o produto "Teclado Yamaha PSR-E473" no site da Magazine Luiza.
     5. O menor preço disponível para o produto é extraído.
     6. O programa exibe na tela o nome do produto, o menor preço encontrado e o link da oferta.
+
+ Observação: Para que o programa funcione corretamente, é necessário instalar algumas bibliotecas. Segue abaixo:
+
+ pip install beautifulsoup4
+ pip install requests
