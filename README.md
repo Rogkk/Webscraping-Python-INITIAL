@@ -13,4 +13,5 @@
  Observação: Para que o programa funcione corretamente, é necessário instalar algumas bibliotecas. Segue abaixo:
 
  pip install beautifulsoup4
+ 
  pip install requests
